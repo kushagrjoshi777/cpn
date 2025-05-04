@@ -1,4 +1,4 @@
-🎨Color-Generator-Palette
+🎨Color-Palette-Generator
 
 A simple and interactive color palette generator built with React, here is it's url: https://kushagrjoshi777.github.io/cpn/ 
 Generate color palettes and copy the hex values for your design projects instantly.
